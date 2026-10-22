@@ -1,0 +1,4 @@
+interface:
+  display_name: "Job Checklists"
+  short_description: "Set up repeatable checklists and completion tracking"
+  default_prompt: "Use $job-checklists to walk me through setup for assigning checklists and tracking completion."
